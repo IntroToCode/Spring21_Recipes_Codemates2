@@ -14,6 +14,7 @@ Egg, Burrito Wrap , Cheddar Cheese, Cooked Potatoes, salt & pepper
 ## Equipment needed:
 Frying Pan
 Stove
+Mixing Bowl
 
 
 ## Steps for preparation:
