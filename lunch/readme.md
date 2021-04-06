@@ -7,7 +7,7 @@
 ## Ingredients: ham, bread, mayo, lettuce
 
 
-## Equipment needed: butter knife
+## Equipment needed: butter knife, cutting board, serving plate
 
 
 ## Steps for preparation: 
