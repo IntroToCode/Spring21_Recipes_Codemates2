@@ -1,5 +1,5 @@
 # Replace with recipe name: 
-Breakfast Burrito
+Spicy Breakfast Burrito
 
 ## Servings: 
 2
@@ -8,7 +8,7 @@ Breakfast Burrito
 30 minutes
 
 ## Ingredients:
-Egg, Burrito Wrap , Cheddar Cheese, Cooked Potatoes, salt & pepper
+Egg, Burrito Wrap , Cheddar Cheese, Cooked Potatoes, salt & pepper, Sriracha
 
 
 ## Equipment needed:
